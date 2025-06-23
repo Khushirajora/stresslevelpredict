@@ -74,3 +74,4 @@ After deep EDA (Exploratory Data Analysis), I selected **5 features**:
 Classification Report:
 Precision: 93% | Recall: 93% | F1 Score: 93%
 ![classification](image.png)
+> ℹ️ This is a working v1 version. Future improvements like probability-based outputs or a more personalized recommendation engine are part of the roadmap.
