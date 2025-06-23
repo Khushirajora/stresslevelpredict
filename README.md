@@ -1,4 +1,6 @@
 # 🧠 Stress Level Predictor using Machine Learning + Streamlit
+🔗 Live App: https://khushirajora-stresslevelpredict-app-3otnyj.streamlit.app/
+
 
 This project is an AI-powered web application that predicts a person’s **stress level** (Low, Moderate, or High) based on simple health and lifestyle indicators. It also recommends a tailored YouTube video to improve the user’s mental state.
 
